@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\RazorMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\abbas\\razormvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|RazorUreydi.csproj|c:\\users\\abbas\\razormvc\\razorureydi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|RazorUreydi.csproj|solutionrelative:razorureydi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\abbas\\razormvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\abbas\\razormvc\\pages\\movies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:pages\\movies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\abbas\\razormvc\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\abbas\\razormvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\abbas\\razormvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|RazorUreydi.csproj|c:\\users\\abbas\\razormvc\\data\\razorureydicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|RazorUreydi.csproj|solutionrelative:data\\razorureydicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\abbas\\razormvc\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\abbas\\razormvc\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|c:\\users\\abbas\\razormvc\\pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD64AE-7310-45E8-B575-A44B1C6CEB15}|GoreyRazorNedi.csproj|solutionrelative:pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RazorUreydi",
+              "DocumentMoniker": "C:\\Users\\abbas\\RazorMVC\\RazorUreydi.csproj",
+              "RelativeDocumentMoniker": "RazorUreydi.csproj",
+              "ToolTip": "C:\\Users\\abbas\\RazorMVC\\RazorUreydi.csproj",
+              "RelativeToolTip": "RazorUreydi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T17:15:14.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RazorMVC\\Pages\\Movies\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\abbas\\RazorMVC\\Pages\\Movies\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:25:01.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RazorMVC\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\abbas\\RazorMVC\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:21:32.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RazorMVC\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\abbas\\RazorMVC\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:13:05.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\RazorMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\abbas\\RazorMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T19:12:02.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\RazorMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\abbas\\RazorMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T18:53:51.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RazorUreydiContext.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RazorMVC\\Data\\RazorUreydiContext.cs",
+              "RelativeDocumentMoniker": "Data\\RazorUreydiContext.cs",
+              "ToolTip": "C:\\Users\\abbas\\RazorMVC\\Data\\RazorUreydiContext.cs",
+              "RelativeToolTip": "Data\\RazorUreydiContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:49:15.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abbas\\RazorMVC\\Pages\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abbas\\RazorMVC\\Pages\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:47:28.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RazorMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\RazorMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAEBVwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:47:18.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RazorMVC\\Pages\\Movies\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\abbas\\RazorMVC\\Pages\\Movies\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Create.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:45:10.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\RazorMVC\\Pages\\Movies\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\abbas\\RazorMVC\\Pages\\Movies\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAEBVwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:41:50.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
